@@ -1,4 +1,0 @@
-utils存放工具类
-pojo存放实体类
-lombok 在编译时，自动为实体类创建getter，setter，tostring方法
---pom引入依赖，在实体类上添加注解
